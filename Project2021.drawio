@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T18:40:21.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="dM1qoFCgnnrrfXsYAg_n" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-23T18:46:40.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="J5wK0-OiL6fGFwRASQvK" version="14.2.6" type="github" pages="3">
   <diagram name="TV" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="9990.5" dy="3225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6611.5" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1706,7 +1706,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="viFtnRb2flxm2fPGRBqk" name="iPad">
-    <mxGraphModel dx="10146" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11227" dy="2580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iCZtmKrQlUOgFJlaAkzX-0" />
         <mxCell id="iCZtmKrQlUOgFJlaAkzX-1" parent="iCZtmKrQlUOgFJlaAkzX-0" />
@@ -2278,6 +2278,38 @@
               <mxPoint x="1897" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ql5pNYfGFxZVSdnU0een" name="iPhone">
+    <mxGraphModel dx="1205" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NZqI4x21KTI2vrYQXUSd-0" />
+        <mxCell id="NZqI4x21KTI2vrYQXUSd-1" parent="NZqI4x21KTI2vrYQXUSd-0" />
+        <mxCell id="T2OCquPeYt7PH_mOui3N-0" value="iPhone" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+          <mxGeometry x="710" y="90" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2OCquPeYt7PH_mOui3N-1" value="Batterie et charge" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+          <mxGeometry x="-70" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2OCquPeYt7PH_mOui3N-2" value="App et fonctionnalités" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+          <mxGeometry x="240" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2OCquPeYt7PH_mOui3N-3" value="Identifiants Apple &amp; iCloud" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+          <mxGeometry x="-390" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2OCquPeYt7PH_mOui3N-4" value="Abonnement et achats" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+          <mxGeometry x="870" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2OCquPeYt7PH_mOui3N-5" value="MAJ, sauvegarde et &#xa;restauration" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+          <mxGeometry x="1186" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2OCquPeYt7PH_mOui3N-6" value="Performances de l&#39;appareil" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+          <mxGeometry x="570" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2OCquPeYt7PH_mOui3N-7" value="Connectivité" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+          <mxGeometry x="1506" y="240" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
