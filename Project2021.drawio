@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T14:04:20.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="i6_dv6Nya3JSG_FaQaad" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-23T14:18:03.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="uvf_lCmN64OXpkVGP2x2" version="14.2.6" type="github" pages="2">
   <diagram name="TV" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="6206.5" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1706,7 +1706,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="viFtnRb2flxm2fPGRBqk" name="iPad">
-    <mxGraphModel dx="3980" dy="2150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6011" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iCZtmKrQlUOgFJlaAkzX-0" />
         <mxCell id="iCZtmKrQlUOgFJlaAkzX-1" parent="iCZtmKrQlUOgFJlaAkzX-0" />
@@ -1720,7 +1720,7 @@
           <mxGeometry x="404" y="190" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ODO5S2irfKCKbF6lrnMj-3" value="Identifiants Apple &amp; iCloud" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
-          <mxGeometry x="-212" y="190" width="220" height="60" as="geometry" />
+          <mxGeometry x="-1350" y="200" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ODO5S2irfKCKbF6lrnMj-4" value="Abonnement et achats" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="1028" y="190" width="220" height="60" as="geometry" />
@@ -1733,6 +1733,36 @@
         </mxCell>
         <mxCell id="ODO5S2irfKCKbF6lrnMj-9" value="Connectivité" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="1664" y="190" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-14" value="Réinitialisation du mot de &#xa;passe associé à l&#39;ID Apple" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-2487" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-15" value="Verrouillage d&#39;activation " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-2235" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-16" value="Alerte &quot;Votre compte a été &#xa;désactivé dans l&#39;App Store&quot;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-1985" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-17" value="ID Apple ou nom de votre &#xa;compte iTunes Store oubliés" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-1735" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-18" value="Connexion avec &#xa;l&#39;identifiant Apple" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-1485" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-19" value="Message d&#39;alerte &quot;Cet ID Apple a été&#xa;désactivé pour des raisons de sécurité&quot;" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=11;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-1237" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-20" value="Code oublié ou appareil &#xa;désactivé " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-987" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-21" value="E-Mail, SMS ou appel &#xa;téléphonique suspect" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-733" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-22" value="Création d&#39;un ID Apple" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-477" y="320" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODO5S2irfKCKbF6lrnMj-23" value="Problème non répertorié" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-220" y="320" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
