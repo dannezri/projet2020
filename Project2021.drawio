@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T18:14:44.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="gyr6AA22aFC442_L2tr1" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-23T18:21:59.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="lgBJzDojc0sbVO-kdg1B" version="14.2.6" type="github" pages="2">
   <diagram name="TV" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="6837.5" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1706,7 +1706,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="viFtnRb2flxm2fPGRBqk" name="iPad">
-    <mxGraphModel dx="13750" dy="4300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8389" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iCZtmKrQlUOgFJlaAkzX-0" />
         <mxCell id="iCZtmKrQlUOgFJlaAkzX-1" parent="iCZtmKrQlUOgFJlaAkzX-0" />
@@ -2128,6 +2128,36 @@
               <mxPoint x="-641" y="370" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-0" value="Blocage ou absence de &#xa;réponse de l&#39;appareil" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-2050" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-1" value="Performance du système &#xa;moins rapide que prévu" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-1798" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-2" value="Code oublié ou &#xa;appareil désactivé" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-1548" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-3" value="L&#39;application ou le système&#xa;ne répond pas" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-1298" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-4" value="Clignotement de l&#39;écran" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-1048" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-5" value="Impossible de mettre à jour&#xa;ou de restaurer" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-800" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-6" value="Impossible de revoir ou &#xa;d&#39;envoyer un e-mail" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-550" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-7" value="Problème de fonctionnement &#xa;de l&#39;App" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-296" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-8" value="Appareil lent ou sans réponse&#xa;aux boutons de l&#39;écran" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="-40" y="590" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-Sc6at-foRr7C-3LDra-9" value="Problème non répertorié" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+          <mxGeometry x="217" y="590" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
