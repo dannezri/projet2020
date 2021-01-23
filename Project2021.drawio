@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T15:14:41.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="vT8VGOUIizYOW5Vop5JH" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-23T18:07:16.110Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="AO23Us2yWPWqqcSisT8R" version="14.2.6" type="github" pages="2">
   <diagram name="TV" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="6611.5" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1706,7 +1706,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="viFtnRb2flxm2fPGRBqk" name="iPad">
-    <mxGraphModel dx="7681" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9573" dy="2580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iCZtmKrQlUOgFJlaAkzX-0" />
         <mxCell id="iCZtmKrQlUOgFJlaAkzX-1" parent="iCZtmKrQlUOgFJlaAkzX-0" />
@@ -1989,31 +1989,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-20" value="Problème de fonctionnement &#xa;de l&#39;adaptateur secteur" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-20" value="Configuration de Mail" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-2310" y="650" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-21" value="Mise hors tension ou &#xa;redémarrage inattendu" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-21" value="Problème de fonctionnement&#xa;de FaceTime" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-2058" y="650" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-22" value="La batterie doit être réparée" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-22" value="Question à propos de Mail&#xa;ou dépannage  " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-1808" y="650" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-23" value="L&#39;application ou le système&#xa;ne répond pas" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-23" value="Application manquante" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-1558" y="650" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-24" value="Pas de vidéo, pourtant le &#xa;produit est alimenté " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-24" value="Sauvegarde ou restauration &#xa;des à partir d&#39;une sauvegarde" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-1308" y="650" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-25" value="Impossible d&#39;allumer" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-25" value="Impossible de recevoir ou &#xa;d&#39;envoyer un e-mail" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-1060" y="650" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-26" value="Dépannage ou questions &#xa;concernant la batterie" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-26" value="Code oublié ou appareil &#xa;désactivé " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-810" y="650" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-27" value="Ne se recharge pas &#xa;lorsqu&#39;elle est connectée " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-27" value="L&#39;application ne répond pas ou &#xa;se ferme de manière inopinée" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-556" y="650" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B5QW2uoSnoJFvsRPvm5x-28" value="Appareil lent ou sans réponse&#xa;aux boutons de l&#39;écran " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
+        <mxCell id="B5QW2uoSnoJFvsRPvm5x-28" value="Problème de fonctionnement &#xa;de l&#39;App" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
           <mxGeometry x="-300" y="650" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B5QW2uoSnoJFvsRPvm5x-29" value="Problème non répertorié" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="iCZtmKrQlUOgFJlaAkzX-1">
