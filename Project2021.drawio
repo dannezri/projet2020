@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T20:43:47.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Kxug31EMZMoBmdmu6HCE" version="14.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-23T20:51:09.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="XvtXawUlju4zl7nDehZD" version="14.2.5" type="github" pages="3">
   <diagram name="TV" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="6686.5" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2283,7 +2283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ql5pNYfGFxZVSdnU0een" name="iPhone">
-    <mxGraphModel dx="10295" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9480" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NZqI4x21KTI2vrYQXUSd-0" />
         <mxCell id="NZqI4x21KTI2vrYQXUSd-1" parent="NZqI4x21KTI2vrYQXUSd-0" />
@@ -2564,9 +2564,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B2bRp9_-GIUmmYb26QL--20" value="App et fonctionnalités" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
-          <mxGeometry x="-930" y="160" width="220" height="60" as="geometry" />
+          <mxGeometry x="-950" y="160" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZV5tRcm0hWvs8NsqLDZP-0" value="Configuration de Mail" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+        <mxCell id="ZV5tRcm0hWvs8NsqLDZP-0" value="Téléchargement ou affichage de &#xa;pochette d&#39;album " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
           <mxGeometry x="-2050" y="350" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZV5tRcm0hWvs8NsqLDZP-1" value="Problème de fonctionnement&#xa;de FaceTime" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
@@ -2581,10 +2581,10 @@
         <mxCell id="ZV5tRcm0hWvs8NsqLDZP-4" value="Sauvegarde ou restauration &#xa;des à partir d&#39;une sauvegarde" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
           <mxGeometry x="-1048" y="350" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZV5tRcm0hWvs8NsqLDZP-5" value="Impossible de recevoir ou &#xa;d&#39;envoyer un e-mail" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+        <mxCell id="ZV5tRcm0hWvs8NsqLDZP-5" value="Lecture incorrecte du contenu" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
           <mxGeometry x="-800" y="350" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZV5tRcm0hWvs8NsqLDZP-6" value="Code oublié ou appareil &#xa;désactivé " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
+        <mxCell id="ZV5tRcm0hWvs8NsqLDZP-6" value="Mise à jour d&#39;IOS" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
           <mxGeometry x="-550" y="350" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZV5tRcm0hWvs8NsqLDZP-7" value="L&#39;application ne répond pas ou &#xa;se ferme de manière inopinée" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NZqI4x21KTI2vrYQXUSd-1">
